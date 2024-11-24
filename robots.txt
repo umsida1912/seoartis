@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.casino-online.sk/kcfinder/file/gacor777/sitemap.xml
+Sitemap: https://seoartis.pages.dev/sitemap.xml
